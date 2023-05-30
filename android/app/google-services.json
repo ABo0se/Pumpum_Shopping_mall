@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474879716971",
+    "project_id": "pummart-fc336",
+    "storage_bucket": "pummart-fc336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474879716971:android:96e3958762b54d381dcb2e",
+        "android_client_info": {
+          "package_name": "com.mycompany.pummart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBKBmI61KzpRoHceSYQBJNUVL4k4p_9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
